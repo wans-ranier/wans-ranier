@@ -1,4 +1,4 @@
-# Olá, eu sou Wans Ranier David Vasconcelos Ferreira! 👋
+# Olá, eu sou Wans Ranier
 
 Técnico em Informática e Graduando em Análise e Desenvolvimento de Sistemas
 Estudante de ADS e Desenvolvedor Full-Stack em formação
